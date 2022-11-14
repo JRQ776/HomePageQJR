@@ -13,6 +13,9 @@ body {
   position: relative;
   background-color: #FFFFFF;
   
+  background-image: url(/assets/img/bgimage.png);
+  background-attachment: fixed;
+  
   overflow-wrap: break-word;
 }
 p {
